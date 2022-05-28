@@ -5,7 +5,6 @@ go 1.17
 require (
 	github.com/cloudwego/kitex v0.3.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/jinzhu/gorm v1.9.16
 	google.golang.org/protobuf v1.28.0
 	gorm.io/driver/mysql v1.3.3
 	gorm.io/gorm v1.23.5
